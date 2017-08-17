@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Client Side Authentification made from ReduxSimpleStarter by StephenGrider
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
